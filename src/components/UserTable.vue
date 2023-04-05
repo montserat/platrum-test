@@ -71,7 +71,7 @@ export default {
     border: 2px solid black;
     border-radius: 4px;
     background: white;
-    padding: 2px;
+    padding: 4px 8px;
     min-width: 300px;
 }
 

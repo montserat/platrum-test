@@ -62,8 +62,11 @@ export default {
 .user-name-wrapper,
 .user-phone-wrapper {
     display: flex;
-    justify-content: center;
     width: 50%;
+}
+
+.user-phone-wrapper{
+    justify-content: center;
 }
 
 .user-name {
